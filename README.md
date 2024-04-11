@@ -4,22 +4,18 @@ AI Password Manager Installer
 
 ######################################################################
 
-Windows Smartscreen Warning Bypass :
+Windows Smartscreen Bypass (If Applicable) :
 
-As this is a batch installer, and you download it from the internet 
-(Github), Windows will warn you saying the file is possibly malicious.
-This installer is totally safe and is marked safe on Virus Total.
-The batch script is just plain code, which you can check for anything
-suspicious.
-
-######################################################################
-
-To install :
-
-Right click the 'apm_setup.bat' and click on 'Run as Administrator'.
+If you're getting a Windows Smartscreen error saying the file could
+possibly be malicious, this is because you have downloaded the file
+from the internet (Github), to bypass this click on the 'More info'
+text and then click on the 'Run anyway' button.
 
 ######################################################################
 
 Note : A working internet connection is required.
+
+Note 2 : The Windows Smartscreen error may or may not appear for you
+based on your Windows settings.
 
 ######################################################################
