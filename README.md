@@ -8,10 +8,10 @@ This is an AI Password Manager, Here's breakdown of it's features :
 
 3) Username Generator - Let's you generate usernames for various accounts.
 
-4) Master Password - Set a powerful password for all your passwords !
+4) Master Password - Set a powerful password for all your passwords ! [COMING SOON]
 
 What about customization ?
 
 1) Default Themes - Light and Dark modes, are built into the program for comfortable viewing.
 
-2) Theme Creator - Light and Dark mode not enough? Design your own theme !
+2) Theme Creator - Light and Dark mode not enough? Design your own theme ! [COMING SOON]
