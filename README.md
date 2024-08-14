@@ -6,7 +6,9 @@ This is an AI Password Manager, Here's breakdown of it's features :
 
 2) Password Strength Checker - Estimates the strength of your password, so that you can create stronger passwords.
 
-3) Username Generator - Let's you generate usernames for various accounts.
+3) Username Generator - Lets you generate usernames for various accounts.
+
+4) Common Passwords Checker - Lets you check if a password is commonly used on the internet.
 
 What about customization ?
 
