@@ -1,19 +1,24 @@
-AI Password Manager
+![AI Password Manager Poster](https://github.com/user-attachments/assets/219fed00-f3f1-4a66-9cbc-c4ea146bd277)
 
-This is an AI Password Manager, Here's breakdown of it's features : 
 
-1) Password Generation - It generates strong passwords with the help of AI.
+# AI Password Manager
 
-2) Password Strength Checker - Estimates the strength of your password, so that you can create stronger passwords.
+This is an **AI Password Manager**, Here's breakdown of it's **features** : 
 
-3) Username Generator - Lets you generate usernames for various accounts.
+1) **Password Generation** - It generates strong passwords with the help of AI.
 
-4) Common Passwords Checker - Lets you check if a password is commonly used on the internet.
+2) **Password Strength Checker** - Estimates the strength of your password, so that you can create stronger passwords.
 
-What about customization ?
+3) **Username Generator** - Lets you generate usernames for various accounts.
 
-1) Default Themes - Light and Dark modes, are built into the program for comfortable viewing.
+4) **Common Passwords Checker** - Lets you check if a password is commonly used on the internet.
 
-2) Theme Creator - Light and Dark mode not enough? Design your own theme !
+5) **Master Password** - Set one single password for all your passwords.
 
-3) Transparency Mode - Enable a semi-transparent window mode.
+What about **customization** ?
+
+1) **Default Themes** - Light and Dark modes, are built into the program for comfortable viewing.
+
+2) **Theme Creator** - Light and Dark mode not enough? Design your own theme !
+
+3) **Transparency Mode** - Enable a semi-transparent window mode.
