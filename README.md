@@ -3,6 +3,9 @@
 
 # AI Password Manager
 
+## Status : APM v2.0 will be released in October/November ! Stay Tuned !
+
+
 This is an **AI Password Manager**, Here's breakdown of it's **features** : 
 
 1) **Password Generation** - It generates strong passwords with the help of AI.
