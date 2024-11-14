@@ -3,7 +3,7 @@
 
 # AI Password Manager
 
-## Status : APM v2.0 will be released in October/November ! Stay Tuned !
+## Status : APM v2.0 is expected to release in December ! Stay Tuned !
 
 
 This is an **AI Password Manager**, Here's breakdown of it's **features** : 
