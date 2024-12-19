@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="ljzq7r3BKLqCyDz9qpN8K7IIzU3QkEciv7zxI4xIfMk" />
+
 ![AI Password Manager Poster](https://github.com/user-attachments/assets/219fed00-f3f1-4a66-9cbc-c4ea146bd277)
 
 
