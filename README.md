@@ -5,7 +5,7 @@
 
 # AI Password Manager
 
-## Status : APM v2.0 is expected to release on December 25 2024. Some of the features listed will be available with APM 2.0.
+## Status : APM v2.0 is expected to release before January 1st 2025. Some of the features listed will be available with APM 2.0.
 
 ![image](https://github.com/user-attachments/assets/1b817cac-4d8f-4820-a1fa-37fa8148337e)
 
