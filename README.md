@@ -5,7 +5,7 @@
 
 # AI Password Manager
 
-## Status : APM v2.0 is now available to download !
+## Status : APM v2.0 is expected to release before January 1st 2025.
 
 ![image](https://github.com/user-attachments/assets/1b817cac-4d8f-4820-a1fa-37fa8148337e)
 
