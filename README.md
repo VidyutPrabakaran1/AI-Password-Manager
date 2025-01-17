@@ -5,7 +5,7 @@
 
 # AI Password Manager
 
-## Status : APM v2.0 will release soon.
+## Status : APM v2.0 is now available to download, hop over to the releases tab to get the newest release.
 
 ![image](https://github.com/user-attachments/assets/1b817cac-4d8f-4820-a1fa-37fa8148337e)
 
