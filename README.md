@@ -5,7 +5,7 @@
 
 # AI Password Manager
 
-## Status : APM v2.0 is now available to download, hop over to the releases tab to get the newest release.
+## Status : Latest Stable Release - APM v2.1
 
 ![image](https://github.com/user-attachments/assets/1b817cac-4d8f-4820-a1fa-37fa8148337e)
 
@@ -47,7 +47,7 @@ What about **customization** ?
 
 ![image](https://github.com/user-attachments/assets/a7084b23-0d02-4b9b-9699-973b8d257341)
 
-5) **Transparency Mode** - Enable a semi-transparent window mode.
+5) **Transparency Mode [Unavailable on Linux]** - Enable a semi-transparent window mode.
 
 ![image](https://github.com/user-attachments/assets/7a0dd57e-f922-42df-b4d1-1b2df3c2462f)
 
