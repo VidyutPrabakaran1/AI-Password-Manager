@@ -5,9 +5,9 @@
 
 # AI Password Manager
 
-## Status : Latest Stable Release - APM v2.1
+## Status : Latest Stable Release - APM v2.2
 
-![image](https://github.com/user-attachments/assets/1b817cac-4d8f-4820-a1fa-37fa8148337e)
+![1](https://github.com/user-attachments/assets/e5547e2a-e1b8-4013-9818-dcc8a07dbbcb)
 
 This is an **AI Password Manager**, Here's breakdown of it's **features** : 
 
@@ -25,11 +25,11 @@ This is an **AI Password Manager**, Here's breakdown of it's **features** :
 
 **APM** Accounts:
 
-![image](https://github.com/user-attachments/assets/c6270f9a-890f-4f3d-9068-6e708399ac07)
+![2](https://github.com/user-attachments/assets/2214921d-e7dd-49f5-9237-71083ef3001f)
 
 Introducing APM Accounts, create your own account for your AI Passsword Manager securely with encryption & 2 Step Verification and get -
 
-![image](https://github.com/user-attachments/assets/15b87209-e8c9-4d37-83ea-b9d9d1bf4d7c)
+![3](https://github.com/user-attachments/assets/8a84f59a-b414-4089-bd1b-49bc458bb957)
 
 Backup Feature :
 Safely backup your credentials to your APM Account.
@@ -41,26 +41,22 @@ What about **customization** ?
 
 1) **Default Themes** - Light and Dark modes, are built into the program for comfortable viewing.
 
-![apmthemesdef](https://github.com/user-attachments/assets/df9fa885-68a5-4e07-940a-1747ab3157f2)
+![4](https://github.com/user-attachments/assets/0da3ab09-a5fe-451c-bf23-23e8f7c1e342)
 
-3) **Theme Creator** - Light and Dark mode not enough? Design your own theme !
+2) **Transparency Mode [Unavailable on Linux]** - Enable a semi-transparent window mode.
 
-![image](https://github.com/user-attachments/assets/a7084b23-0d02-4b9b-9699-973b8d257341)
-
-5) **Transparency Mode [Unavailable on Linux]** - Enable a semi-transparent window mode.
-
-![image](https://github.com/user-attachments/assets/7a0dd57e-f922-42df-b4d1-1b2df3c2462f)
+![5](https://github.com/user-attachments/assets/7a73b834-b130-49b2-8ebc-a132a10a4e2c)
 
 ## Credits & Acknowledgements
 
 ### Application Framework:
  - Language - Python (https://www.python.org/)
- - UI - Tkinter (Python GUI Library)
+ - UI - Custom Tkinter (https://customtkinter.tomschimansky.com/)
 ### Contributors:
  - Feature Ideas - @ZappedZaid (https://www.youtube.com/@ZappedZaid5 - YouTube)
  - Bug reports & Suggestions - AnonymousYA (Identity Hidden)
 ### APIs & Libraries Used:
- - Tkinter (Python) - Main UI
+ - Custom Tkinter (Tom Schimansky / https://customtkinter.tomschimansky.com/) - Main UI
  - Webbrowser (Python) - Feedback Function
  - Requests (Kenneth Reitz - me@kennethreitz.org / https://pypi.org/project/requests/) - Internet Connection Check & Update Check system.
  - JSON (JSON - https://www.json.org) - Data management.
