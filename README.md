@@ -27,7 +27,7 @@ This is an **AI Password Manager**, Here's breakdown of it's **features** :
 
 ![2](https://github.com/user-attachments/assets/2214921d-e7dd-49f5-9237-71083ef3001f)
 
-Introducing APM Accounts, create your own account for your AI Passsword Manager securely with encryption & 2 Step Verification and get -
+Introducing APM Accounts, create your own account for your AI Password Manager securely with encryption & 2 Step Verification and get -
 
 ![3](https://github.com/user-attachments/assets/8a84f59a-b414-4089-bd1b-49bc458bb957)
 
