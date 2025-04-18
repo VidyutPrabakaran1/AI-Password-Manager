@@ -7,7 +7,7 @@
 
 ## Status : Latest Stable Release - APM v2.2
 
-![1](https://github.com/user-attachments/assets/e5547e2a-e1b8-4013-9818-dcc8a07dbbcb)
+![1](https://github.com/user-attachments/assets/aa530b07-7476-45a1-b99c-8b6c74313483)
 
 This is an **AI Password Manager**, Here's breakdown of it's **features** : 
 
@@ -25,11 +25,11 @@ This is an **AI Password Manager**, Here's breakdown of it's **features** :
 
 **APM** Accounts:
 
-![2](https://github.com/user-attachments/assets/2214921d-e7dd-49f5-9237-71083ef3001f)
+![2](https://github.com/user-attachments/assets/2f220999-e7b4-4239-8d10-942d0839a67c)
 
 Introducing APM Accounts, create your own account for your AI Password Manager securely with encryption & 2 Step Verification and get -
 
-![3](https://github.com/user-attachments/assets/8a84f59a-b414-4089-bd1b-49bc458bb957)
+![3](https://github.com/user-attachments/assets/3949efb3-e2be-4956-9596-d076bb8478e0)
 
 Backup Feature :
 Safely backup your credentials to your APM Account.
@@ -41,11 +41,12 @@ What about **customization** ?
 
 1) **Default Themes** - Light and Dark modes, are built into the program for comfortable viewing.
 
-![4](https://github.com/user-attachments/assets/0da3ab09-a5fe-451c-bf23-23e8f7c1e342)
+![4](https://github.com/user-attachments/assets/c090d8fa-fe7a-49a3-ad45-b5bcdc74efca)
 
 2) **Transparency Mode [Unavailable on Linux]** - Enable a semi-transparent window mode.
 
-![5](https://github.com/user-attachments/assets/7a73b834-b130-49b2-8ebc-a132a10a4e2c)
+![5](https://github.com/user-attachments/assets/36109785-61b9-4206-8855-67955a8624a0)
+*Image for representational purposes only. Actual transparency may vary.
 
 ## Credits & Acknowledgements
 
@@ -67,7 +68,6 @@ What about **customization** ?
  - Pillow (Jeffrey A. Clark - aclark@aclark.net / https://pypi.org/project/pillow) - Image Management.
  - Google Spreadsheets Python API (Anton Burnashev - fuss.here@gmail.com / https://pypi.org/project/gspread) - Cloud DB Management.
  - Google API Python Client (Google APIs - https://github.com/googleapis/google-api-python-client) - Cloud DB Management.
- - OpenCV (https://pypi.org/project/opencv-python) - Image Management.
  - Geocoder (Dennis Carriere - carriere.denis@gmail.com / https://pypi.org/project/geocoder) - Verification Email Location Tagger.
  - Random User API (API Ninjas - https://www.api-ninjas.com/api/randomuser) - Random username generation.
  - Password Generator API (API Ninjas - https://www.api-ninjas.com/api/passwordgenerator) - Password generation.
