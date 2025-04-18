@@ -65,7 +65,6 @@ What about **customization** ?
  - Pickle (Python) - Data management.
  - BeautifulSoup4 (Leonard Richardson - leonardr@segfault.org / https://pypi.org/project/beautifulsoup4/) - Versioning System.
  - Cryptography (Python Cryptographic Authority - https://pypi.org/org/pyca / https://pypi.org/project/cryptography) - Encryption System.
- - Pillow (Jeffrey A. Clark - aclark@aclark.net / https://pypi.org/project/pillow) - Image Management.
  - Google Spreadsheets Python API (Anton Burnashev - fuss.here@gmail.com / https://pypi.org/project/gspread) - Cloud DB Management.
  - Google API Python Client (Google APIs - https://github.com/googleapis/google-api-python-client) - Cloud DB Management.
  - Geocoder (Dennis Carriere - carriere.denis@gmail.com / https://pypi.org/project/geocoder) - Verification Email Location Tagger.
