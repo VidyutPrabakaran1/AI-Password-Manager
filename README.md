@@ -54,7 +54,7 @@ What about **customization** ?
  - Language - Python (https://www.python.org/)
  - UI - Custom Tkinter (https://customtkinter.tomschimansky.com/)
 ### Contributors:
- - Feature Ideas - @ZappedZaid (https://www.youtube.com/@ZappedZaid5 - YouTube)
+ - Feature Ideas - @ZappedZaid (https://www.youtube.com/@ZappedZaid5 - YouTube / [@Zapped-Zaid5](https://github.com/Zapped-Zaid5) - Github)
  - Bug reports & Suggestions - AnonymousYA (Identity Hidden)
 ### APIs & Libraries Used:
  - Custom Tkinter (Tom Schimansky / https://customtkinter.tomschimansky.com/) - Main UI
