@@ -3,13 +3,13 @@
 ![AI Password Manager Poster](https://github.com/user-attachments/assets/219fed00-f3f1-4a66-9cbc-c4ea146bd277)
 
 
-# AI Password Manager
+# AI Password Manager 🗝️
 
-## Status : Latest Stable Release - APM v2.2
+## Status 🪄: Latest Stable Release - APM v2.2
 
 ![1](https://github.com/user-attachments/assets/aa530b07-7476-45a1-b99c-8b6c74313483)
 
-This is an **AI Password Manager**, Here's breakdown of it's **features** : 
+This is an **AI Password Manager**, Here's breakdown of it's **features** ✨ : 
 
 1) **Password Generation** - It generates strong passwords with the help of AI.
 
@@ -23,7 +23,7 @@ This is an **AI Password Manager**, Here's breakdown of it's **features** :
 
 6) and...
 
-**APM** Accounts:
+**APM** Accounts 🧾:
 
 ![2](https://github.com/user-attachments/assets/2f220999-e7b4-4239-8d10-942d0839a67c)
 
@@ -37,7 +37,7 @@ Safely backup your credentials to your APM Account.
 Restore Feature :
 Backed up? Had to reinstall APM? or Got a new computer? Login to your APM Account and click restore to get all your credentials back on your new install.
 
-What about **customization** ?
+What about **customization** 🎨 ?
 
 1) **Default Themes** - Light and Dark modes, are built into the program for comfortable viewing.
 
@@ -48,7 +48,7 @@ What about **customization** ?
 ![5](https://github.com/user-attachments/assets/36109785-61b9-4206-8855-67955a8624a0)
 *Image for representational purposes only. Actual transparency may vary.
 
-## Credits & Acknowledgements
+## Credits & Acknowledgements 🎉
 
 ### Application Framework:
  - Language - Python (https://www.python.org/)
