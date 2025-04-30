@@ -3,7 +3,7 @@
 ![AI Password Manager Poster](https://github.com/user-attachments/assets/219fed00-f3f1-4a66-9cbc-c4ea146bd277)
 
 
-# AI Password Manager 🗝️
+# AI Password Manager 🗝️  -  [Website](https://AI-Password-Manager.github.io/)
 
 ## Status 🪄: Latest Stable Release - APM v2.2
 
@@ -51,24 +51,22 @@ What about **customization** 🎨 ?
 ## Credits & Acknowledgements 🎉
 
 ### Application Framework:
- - Language - Python (https://www.python.org/)
- - UI - Custom Tkinter (https://customtkinter.tomschimansky.com/)
+ - Language - Python ([Website](https://www.python.org/))
+ - UI - Custom Tkinter ([Website](https://customtkinter.tomschimansky.com/))
 ### Contributors:
- - Feature Ideas - @ZappedZaid (https://www.youtube.com/@ZappedZaid5 - YouTube / [@Zapped-Zaid5](https://github.com/Zapped-Zaid5) - Github)
+ - Feature Ideas - @ZappedZaid ([@ZappedZaid5](https://www.youtube.com/@ZappedZaid5) - YouTube / [@Zapped-Zaid5](https://github.com/Zapped-Zaid5) - Github)
  - Bug reports & Suggestions - AnonymousYA (Identity Hidden)
 ### APIs & Libraries Used:
- - Custom Tkinter (Tom Schimansky / https://customtkinter.tomschimansky.com/) - Main UI
+ - Custom Tkinter (Tom Schimansky / [Website](https://customtkinter.tomschimansky.com/)) - Main UI
  - Webbrowser (Python) - Feedback Function
- - Requests (Kenneth Reitz - me@kennethreitz.org / https://pypi.org/project/requests/) - Internet Connection Check & Update Check system.
- - JSON (JSON - https://www.json.org) - Data management.
- - zxcvbn (Dropbox - https://github.com/dropbox/zxcvbn) - Password Strength Check system.
+ - Requests (Kenneth Reitz - [Email](me@kennethreitz.org) / [PyPi](https://pypi.org/project/requests/)) - Internet Connection Check & Update Check system.
+ - JSON (JSON - [Website](https://www.json.org)) - Data management.
+ - zxcvbn (Dropbox - [GitHub](https://github.com/dropbox/zxcvbn)) - Password Strength Check system.
  - Pickle (Python) - Data management.
- - BeautifulSoup4 (Leonard Richardson - leonardr@segfault.org / https://pypi.org/project/beautifulsoup4/) - Versioning System.
- - Cryptography (Python Cryptographic Authority - https://pypi.org/org/pyca / https://pypi.org/project/cryptography) - Encryption System.
- - Google Spreadsheets Python API (Anton Burnashev - fuss.here@gmail.com / https://pypi.org/project/gspread) - Cloud DB Management.
- - Google API Python Client (Google APIs - https://github.com/googleapis/google-api-python-client) - Cloud DB Management.
- - Geocoder (Dennis Carriere - carriere.denis@gmail.com / https://pypi.org/project/geocoder) - Verification Email Location Tagger.
- - Random User API (API Ninjas - https://www.api-ninjas.com/api/randomuser) - Random username generation.
- - Password Generator API (API Ninjas - https://www.api-ninjas.com/api/passwordgenerator) - Password generation.
+ - BeautifulSoup4 (Leonard Richardson - [Email](leonardr@segfault.org) / [PyPi](https://pypi.org/project/beautifulsoup4/)) - Versioning System.
+ - Cryptography (Python Cryptographic Authority - [PyPi Profile](https://pypi.org/org/pyca) / [PyPi](https://pypi.org/project/cryptography)) - Encryption System.
+ - Google Spreadsheets Python API (Anton Burnashev - [Email](fuss.here@gmail.com) / [PyPi](https://pypi.org/project/gspread)) - Cloud DB Management.
+ - Google API Python Client (Google APIs - [GitHub](https://github.com/googleapis/google-api-python-client)) - Cloud DB Management.
+ - Geocoder (Dennis Carriere - [Email](carriere.denis@gmail.com) / [PyPi](https://pypi.org/project/geocoder)) - Verification Email Location Tagger.
 
 
